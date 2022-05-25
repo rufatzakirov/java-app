@@ -1,4 +1,4 @@
-@Library('jenkins-shared-library')
+@Library('shared-library')
 def gv
 pipeline {
     agent any
